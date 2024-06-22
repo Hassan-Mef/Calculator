@@ -1,4 +1,4 @@
-#SIMPLE CALCULATOR 
+# SIMPLE CALCULATOR 
 
 ## A simple arithmatic calculator made in JavaScript using HTML and CSS
 
